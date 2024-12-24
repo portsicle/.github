@@ -27,3 +27,7 @@ A lightweight and flexible HTTP/HTTPS forward proxy server that allows Site acce
 ## Contribution
 
 We welcome contributions! Feel free to open a pull request or an issue.
+
+---
+
+<a href="https://www.buymeacoffee.com/amitsuthar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
