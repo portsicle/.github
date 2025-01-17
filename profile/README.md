@@ -1,8 +1,7 @@
-# Portsicle
+![banner](https://github.com/user-attachments/assets/10a91044-97a7-4659-95da-9a7fde488a46)
 
-**Portsicle** is a suite of tunneling and proxy services.
-
-With Portsicle, you can expose local servers to the internet or use our transparent proxy to monitor your devices' network traffic.
+> **Portsicle** is a suite of tunneling and proxy services.
+> With Portsicle, you can expose local servers to the internet or use our transparent proxy to monitor your devices' network traffic.
 
 ## Repository overview
 
