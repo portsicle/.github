@@ -7,10 +7,7 @@
 
 ### 1. **Portsicle Server**
 
-A free and open-source Ngrok alternative to expose local servers online,
-
-- Minimal setup & high performance.
-- Supports Hot Module Replacement.
+A free and open-source tool to expose local servers online with **Minimal setup & high performance**.
 
 ### 2. **Portsicle Client**
 
