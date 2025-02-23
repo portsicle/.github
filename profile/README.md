@@ -1,8 +1,6 @@
 ![banner](https://github.com/user-attachments/assets/10a91044-97a7-4659-95da-9a7fde488a46)
 
-Showcase your locally running applications to clients or stakeholders without deploying them.
-
-**Portsicle** is a suite of tunneling and proxy services. With Portsicle, you can expose local servers to the internet or use our transparent proxy to monitor your devices' network traffic.
+**Portsicle** is a reverse tunneling service that creates a public ingress endpoint for local servers, allowing developers to showcase their locally running applications to clients, stakeholders or to test APIs without deploying.
 
 ## Repository overview
 
