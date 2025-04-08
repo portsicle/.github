@@ -31,6 +31,8 @@ A lightweight and flexible HTTP/HTTPS forward proxy server that allows Site acce
 
 4. This method ensures that your local server remains protected behind your firewall, while still being accessible via a public URL provided by the Portsicle server.
 
+> **NOTE** that Portsicle is currently designed to work with **production‑build assets** where the files are served statically. There’s no mechanism in the current code to dynamically adjust headers based on the HMR requirements. Hence HMR remains a future scope / enhancement for this project.
+
 ## Contribution
 
 We welcome contributions! Feel free to open a pull request or an issue.
